@@ -1,12 +1,12 @@
 # clone-masai-lms
 <a href="https://client-khushboo-choudhary.vercel.app/">Demo Link</a>
 
-Login 
-<p>Email: khushi@gmail.com</p> <br/>
+<h1>Login </h1>
+<p>Email: khushi@gmail.com</p>
 <p>Password: khushi</p>
 
-Admin
-<p>Email: admin</p>c<br/>
+<h1>Admin</h1>
+<p>Email: admin</p>
 <p>password: admin</p>
 
 # Getting Started with Create React App
