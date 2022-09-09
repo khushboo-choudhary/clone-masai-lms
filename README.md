@@ -1,6 +1,14 @@
 # clone-masai-lms
 <a href="https://client-khushboo-choudhary.vercel.app/">Demo Link</a>
 
+Login 
+Email: khushi@gmail.com
+Password: khushi
+
+Admin
+Email: admin
+password: admin
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
