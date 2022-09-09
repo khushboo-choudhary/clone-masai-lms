@@ -1,0 +1,31 @@
+.mainDetails{
+    width: 80%;
+    margin-top: 60px;
+    margin-left: 10%;
+    background-color: white;
+    height: 250px;
+    padding: 20px;
+}
+.schedule {
+   
+    font-size: 28px;
+    font-weight: 550;
+    color: rgb(0, 0, 62);
+}
+.classLink{
+    
+    font-size: 28px;
+    font-weight: 550;
+    color: blueviolet
+
+}
+.classLink2{
+
+    padding: 20px;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.classLink2:hover{
+    color: darkorange;
+}

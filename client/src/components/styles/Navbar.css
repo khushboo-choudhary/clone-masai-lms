@@ -1,0 +1,96 @@
+body {
+    background-color: rgb(243, 244, 246);
+}
+
+.topBox {
+   
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 20px;
+    padding-right: 50px;
+    background-color: white;
+    border-bottom: 1px solid rgb(221, 216, 216);
+}
+
+.masaiLogo {
+    flex: .8;
+}
+
+.logo {
+    width: 40%;
+    margin: 6% 26%;
+    
+}
+
+.categoryBoxes {
+   
+    display: flex;
+    justify-content: space-around;
+    flex: 3;
+    align-items: center;
+    color: gray;
+
+
+}
+
+.categoryBoxes>div {
+    
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin-left: -30px;
+    margin-right: 40px;
+}
+
+.categoryBoxes>div:hover {
+    border-bottom: 1px solid gray;
+
+}
+
+#basic-button {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 18px;
+
+}
+
+.navBox {
+   
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: white;
+
+}
+
+.navBox>div:nth-child(1) {
+    flex: 3;
+    margin-left: 7%;
+}
+
+.navBox>div:nth-child(2) {
+    flex: 1;
+}
+
+.schedule {
+   
+    font-size: 28px;
+    font-weight: 550;
+    color: rgb(0, 0, 62);
+}
+
+.button {
+    font-size: 14px;
+    padding: 5px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    background-color: rgb(16, 16, 44);
+    color: white;
+    margin-left: 3%;
+}
+
+.button:hover {
+    cursor: pointer;
+}

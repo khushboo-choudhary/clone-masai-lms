@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(243, 244, 246);
+}
+
+.Login {
+
+    width: 50%;
+    height: 500px;
+    margin: auto;
+    margin-top: 3%;
+}
+
+.MasaiLogo {
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+
+}
+
+.contentBox {
+    width: 50%;
+    margin: auto;
+    padding: 4%;
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 8px;
+
+}
+
+.inputBox {
+    height: 35px;
+    width: 97%;
+    border-radius: 10px;
+    border: 1px solid rgb(137, 137, 137);
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+.inputName {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.buttonBox {
+    margin-top: 20px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    width: 98%;
+}
+
+.forget {
+    margin-right: 10px;
+    text-decoration: underline;
+}
+
+.button {
+    font-size: 14px;
+    padding: 5px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 5px;
+    background-color: rgb(16, 16, 44);
+    color: white;
+}
