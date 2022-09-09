@@ -63,14 +63,14 @@ const Login = () => {
             <div className='contentBox'>
             <form onSubmit={handleSubmit}>
                 <label>Email</label> <br />
-                <input type="text" required className='inputBox' id='email' onChange={handleChange}/><br />
+                <input type="email" className='inputBox' id='email' onChange={handleChange} required/><br />
                 <label>Password</label><br />
-                <input type="password" required className='inputBox' id='password' onChange={handleChange}/><br />
+                <input type="password" className='inputBox' id='password' onChange={handleChange} required/><br />
                 <input type="checkbox" name="" id="" />
                 <label>Remember Me</label>
                 <div className='buttonBox'>
                     <p className='forget'>Forgot your password?</p>
-                    <button className='button' onClick={handleSubmit}>LOG IN</button>
+                    <button className='button'>LOG IN</button>
                 </div>
                 </form>
             </div>
