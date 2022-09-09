@@ -2,12 +2,12 @@
 <a href="https://client-khushboo-choudhary.vercel.app/">Demo Link</a>
 
 Login 
-Email: khushi@gmail.com
-Password: khushi
+<p>Email: khushi@gmail.com</p> <br/>
+<p>Password: khushi</p>
 
 Admin
-Email: admin
-password: admin
+<p>Email: admin</p>c<br/>
+<p>password: admin</p>
 
 # Getting Started with Create React App
 
